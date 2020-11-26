@@ -3,5 +3,7 @@ This is a not entirely finished ReactNative application about getting COVID19 st
 
 
 ![Alt text](COVID19-2.png) 
+![Alt text](COVID19.png) 
+![Alt text](COVID19-3.png) 
 
 
